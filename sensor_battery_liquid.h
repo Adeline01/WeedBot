@@ -1,5 +1,5 @@
 //Partie de Adeline
-//includes
+//include
 #include "caractere.h"
 //#include "verification_batterie.h"
 //#include "verification_liquide.h"
